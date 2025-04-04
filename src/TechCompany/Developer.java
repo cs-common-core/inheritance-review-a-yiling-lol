@@ -13,6 +13,6 @@ public class Developer extends Employee{
     }
 
     public String toString(){
-        return super.toString() + ", developer working in " + language;
+        return super.toString() + "| Working in " + language;
     }
 }

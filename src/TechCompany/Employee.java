@@ -14,7 +14,7 @@ public class Employee {
     }
 
     public String toString(){
-        return name + ", title: " + title;
+        return name + " | " + title + " ";
     }
 
     public String getName(){
